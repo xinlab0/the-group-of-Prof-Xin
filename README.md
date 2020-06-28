@@ -1,4 +1,3 @@
-# Group of Future Biomedical Technology Center and Biomedical Basic Science Research center
 
 # School of Medicine, South China University of Technology
 
@@ -22,17 +21,17 @@ Animal Centers: zebrafish, mouse/rat, big animals.
 
 ### Our team:
     Current team members’ academic background including: 
-       clinical medicine;  
-       physics;  
-       biochemistry;   
-       biomaterials;   
-       electronic engineering;   
-       molecular biology;   
-       bioengineering;   
-       biomedical engineering;   
-       electromagnetic engineering;   
-       biomedical signal processing;   
-       medical images analysis and processing.  
+       Clinical medicine;  
+       Physics;  
+       Biochemistry;   
+       Biomaterials;   
+       Electronic engineering;   
+       Molecular biology;   
+       Bioengineering;   
+       Biomedical engineering;   
+       Electromagnetic engineering;   
+       Biomedical signal processing;   
+       Medical image analysis and processing.  
 
 ## What we pursuit:
 ### New techniques including: 
@@ -49,7 +48,7 @@ Animal Centers: zebrafish, mouse/rat, big animals.
 
 ## Welcome to Join us:  
       •	Technical & Biomedical Engineering talents who are willing to pursue new techniques and new applications.  
-      •	Scientists who are willing to explore the mechanism of tumor pathogenesis, embryonic development, tissue engineering etc. in the biomedical basic science research.  
+      •	Scientists who are willing to explore the mechanism of tumor pathogenesis, embryonic development, tissue engineering, etc. in the biomedical basic science research.  
 
 ## Positions Available:  
       •	Professor (Tenured)  
@@ -58,6 +57,6 @@ Animal Centers: zebrafish, mouse/rat, big animals.
       •	Postdocs    
       •	Technicians  
 
-## Contactor: Professor Xin  
+## Contractor: Professor Xin  
 ## Email: xinxg@scut.edu.cn  
 ## Tel: (86)2039381185.  
