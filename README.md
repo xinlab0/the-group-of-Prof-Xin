@@ -16,7 +16,8 @@
     Basic Instrument Lab  
     Pathology and immunology center Lab
 
-Animal Centers: zebrafish, mouse/rat, big animals.
+### Animal Centers: 
+    zebrafish, mouse/rat, big animals.
 
 ### Our team:
     Current team members’ academic background including: 
@@ -39,6 +40,7 @@ Animal Centers: zebrafish, mouse/rat, big animals.
        In vivo bioelectromagnetic measurement and analysis;
        In vivo biophysical properties measurement and analysis;
        New algorithm of Bioinformatics. 
+
 ### Biomedical basic Science research areas: 
        Tumor cellular origin, Tumor evolution, Tumor early detection, Tumor treatment;
        Embryonic development and congenital diseases;
