@@ -1,37 +1,63 @@
-## Welcome to GitHub Pages
+# Group of Future Biomedical Technology Center and Biomedical Basic Science Research center
 
-You can use the [editor on GitHub](https://github.com/xinlab0/xinlab0.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+# School of Medicine, South China University of Technology
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## What we have:
+### Core facilities:
+MRI Lab: 
+   3T MRI (human body).
+Molecular Imaging Lab: 
+   Optical Coherence Tomography (OCT);
+   Atomic Force Microscopy (AFM);
+   Confocal Microscopy;
+   Multiphoton Laser Scanning Microscopy. 
+Isotope Lab: 
+   SPECT. 
+Proteomics Lab  
+Metabolomics Lab  
+Basic Instrument Lab  
+Pathology and immunology center Lab
 
-### Markdown
+Animal Centers: zebrafish, mouse/rat, big animals.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Our team:
+Current team members’ academic background including: 
+   clinical medicine;
+   physics;
+   biochemistry; 
+   biomaterials; 
+   electronic engineering; 
+   molecular biology; 
+   bioengineering; 
+   biomedical engineering; 
+   electromagnetic engineering; 
+   biomedical signal processing; 
+   medical images analysis and processing.
 
-```markdown
-Syntax highlighted code block
+## What we pursuit:
+### New techniques including: 
+    In vivo imaging at the resolution of subcellular level;
+    In vivo single-cell measurement and analysis;
+    In vivo bioelectromagnetic measurement and analysis;
+    In vivo biophysical properties measurement and analysis;
+    New algorithm of Bioinformatics. 
+### Biomedical basic Science research areas: 
+    Tumor cellular origin, Tumor evolution, Tumor early detection, Tumor treatment;
+    Embryonic development and congenital diseases;
+    Gene and environment interactions;
+    In vitro biomaterials and tissue engineering.
 
-# Header 1
-## Header 2
-### Header 3
+## Welcome to Join us:
+   •	Technical & Biomedical Engineering talents who are willing to pursue new techniques and new applications.
+   •	Scientists who are willing to explore the mechanism of tumor pathogenesis, embryonic development, tissue engineering etc. in the biomedical basic science research.
 
-- Bulleted
-- List
+## Positions Available:  
+   •	Professor (Tenured)
+   •	Associate Professor (Tenured)
+   •	Assistant Professor (Tenured)
+   •	Postdocs
+   •	Technicians
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/xinlab0/xinlab0.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Contactor: Professor Xin
+Email: xinxg@scut.edu.cn
+Tel: (86)2039381185.
