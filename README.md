@@ -1,6 +1,3 @@
-
-# School of Medicine, South China University of Technology
-
 ## What we have:
 ### Core facilities:
     MRI Lab:   
